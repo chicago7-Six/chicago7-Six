@@ -1,9 +1,5 @@
-- <🧪/Chicago... 
-- <📺/18 de julho de 2008
-- <⛵/Fortaleza, Brasil
-- <💻/Iniciante no mundo da programação...
-- "O sábio é aquele que reconhece os limites da própria ignorância"
-- <💀/404>
+- "ідэальная канструкцыя хаосу "
+- YounWorld
 
 <!---
 chicago7-Six/chicago7-Six is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
