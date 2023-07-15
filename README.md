@@ -1,5 +1,5 @@
 - "ідэальная канструкцыя хаосу "
-- YounWorld
+- YoungWorld
 
 <!---
 chicago7-Six/chicago7-Six is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
